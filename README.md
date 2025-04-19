@@ -44,7 +44,17 @@ Step 5: Model Development
 Used cosine similarity to compute similarities between movies based on their TF-IDF vectors.
 Developed a function, recommend_movies, which takes a movie title as input and outputs the top similar movies.
 
+
+
 ![Image](https://github.com/user-attachments/assets/91eccf4d-d2b1-4700-be9a-f2fa67d2b0da)
+
+
+![image](https://github.com/user-attachments/assets/9777272a-a86f-4ff2-a92b-e05f36ddb1a0)
+
+
+
+
+
 
 Step 6: Results
 
@@ -52,6 +62,15 @@ Example Recommendations:
 Input: Iron Man 3 ➔ Output: Captain America: Civil War, The Avengers.
 Input: Avatar ➔ Output: Movies with strong visual effects and sci-fi themes.
 Movie Similarity Heatmap: Demonstrated relationships between popular movies based on cosine similarity scores.
+
+
+![image](https://github.com/user-attachments/assets/b9e7a5cd-5d42-4332-8b6d-1d677a0b5bf9)
+
+
+
+
+
+
 
 Step 7: Analytical Insights
 
