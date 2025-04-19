@@ -16,12 +16,12 @@ These datasets were combined and cleaned to provide a robust and accurate founda
 
 Project Workflow
 
-Step 1: Data Collection
+#Step 1: Data Collection
 
 Sourced data from Kaggle (Movie Lens Dataset) and Wikipedia.
 Merged historical and recent data to ensure comprehensive coverage of movies.
 
-Step 2: Data Preparation
+#Step 2: Data Preparation
 
 Handled missing values:
 Filled categorical missing data with "unknown."
