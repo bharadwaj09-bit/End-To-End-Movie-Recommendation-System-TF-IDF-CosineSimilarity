@@ -44,6 +44,8 @@ Step 5: Model Development
 Used cosine similarity to compute similarities between movies based on their TF-IDF vectors.
 Developed a function, recommend_movies, which takes a movie title as input and outputs the top similar movies.
 
+![Image](https://github.com/user-attachments/assets/91eccf4d-d2b1-4700-be9a-f2fa67d2b0da)
+
 Step 6: Results
 
 Example Recommendations:
